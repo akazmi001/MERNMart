@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://mern-mart-kres.onrender.com/api/$1"
+    }
+  ]
+}
+
