@@ -1,5 +1,4 @@
 MERN Mart
-
 An online marketplace application with seller accounts, product search and suggestions, shopping cart, order management, payment processing with Stripe, and live auction using Socket.io — built using React, Node.js, Express, and MongoDB.
 
 <img align="center" src="https://s3.amazonaws.com/mernbook/git+/marketplace.png" width="56%"> <img align="center" src="https://mernbook.s3.amazonaws.com/git+/marketplace-bidding.png" width="42%">
@@ -98,7 +97,6 @@ JWT Secret
 
 Stripe keys (if used)
 
-⚠️ Do not expose real secrets in public repositories.
 
 📁 Project Structure
 MERNMart/
